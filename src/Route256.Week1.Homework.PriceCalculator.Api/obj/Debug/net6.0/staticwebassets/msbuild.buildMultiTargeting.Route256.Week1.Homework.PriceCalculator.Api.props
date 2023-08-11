@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Route256.Week1.Homework.PriceCalculator.Api.props" />
+</Project>
